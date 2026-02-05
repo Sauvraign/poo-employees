@@ -38,6 +38,10 @@ class Employee
 
 	// TODO ajouter les getters et les setters
 
+	public String getLastName() {
+		return lastName;
+	}
+
 	// TODO implémenter la méthode "toString()" qui renvoie une chaîne de caractère qui représente un objet de la classe employé
 	// plus d'information sur la méthode "toString()" -> https://codegym.cc/fr/groups/posts/fr.986.mthode-java-tostring
 }
