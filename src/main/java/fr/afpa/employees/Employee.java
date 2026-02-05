@@ -15,6 +15,10 @@ class Employee
 	 * Matricule de l'employé
 	 */
 	private String registrationNumber;
+	private String lastName;
+	private String firstName;
+	private double salary;
+	private double socialParticipation;
 
 	// TODO compléter les attributs comme présenté dans le PDF
 
